@@ -1,0 +1,15 @@
+C:\Users\хонор\Desktop\программист\Osnov\bin\Debug\net7.0\Osnov.exe
+C:\Users\хонор\Desktop\программист\Osnov\bin\Debug\net7.0\Osnov.deps.json
+C:\Users\хонор\Desktop\программист\Osnov\bin\Debug\net7.0\Osnov.runtimeconfig.json
+C:\Users\хонор\Desktop\программист\Osnov\bin\Debug\net7.0\Osnov.dll
+C:\Users\хонор\Desktop\программист\Osnov\bin\Debug\net7.0\Osnov.pdb
+C:\Users\хонор\Desktop\программист\Osnov\obj\Debug\net7.0\Osnov.csproj.AssemblyReference.cache
+C:\Users\хонор\Desktop\программист\Osnov\obj\Debug\net7.0\Osnov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\хонор\Desktop\программист\Osnov\obj\Debug\net7.0\Osnov.AssemblyInfoInputs.cache
+C:\Users\хонор\Desktop\программист\Osnov\obj\Debug\net7.0\Osnov.AssemblyInfo.cs
+C:\Users\хонор\Desktop\программист\Osnov\obj\Debug\net7.0\Osnov.csproj.CoreCompileInputs.cache
+C:\Users\хонор\Desktop\программист\Osnov\obj\Debug\net7.0\Osnov.dll
+C:\Users\хонор\Desktop\программист\Osnov\obj\Debug\net7.0\refint\Osnov.dll
+C:\Users\хонор\Desktop\программист\Osnov\obj\Debug\net7.0\Osnov.pdb
+C:\Users\хонор\Desktop\программист\Osnov\obj\Debug\net7.0\Osnov.genruntimeconfig.cache
+C:\Users\хонор\Desktop\программист\Osnov\obj\Debug\net7.0\ref\Osnov.dll
